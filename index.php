@@ -746,10 +746,11 @@
         		if(data.valid){
 					alert('Data Sudah Berhasil Di Simpan');
         		}else{
-          			//alert('Mohon Isi Data Dengan Lengkap');
+          			alert('Mohon Isi Data Dengan Lengkap');
         		}
       		},'json');      
       return false;
+      
       
     }
 	function hitung(){ 
