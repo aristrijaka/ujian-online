@@ -119,7 +119,7 @@
 	<div data-role="content" data-theme="a" id="intro1a" style="display:none;">
 	<h2>Cara Pengerjaan</h2>
 	<ul>
-	<li>Bagian I terdiri dari 6 kelompok: M – I – S – H – E – K</li><br/>
+	<li>Bagian I terdiri dari 6 kelompok: M – I – S – H – E – A</li><br/>
 	<li>Setiap kelompok terdiri dari 7 kalimat/ aitem.</li><br/>
 	<li>Tugasmu adalah memilih beberapa aktivitas yang kamu sukai dari ketujuh aitem tersebut.</li><br/>
 	<li>Pilihlah dengan memberi tanda centang atau klik aitem yang kamu sukai.</li><br/>
@@ -390,7 +390,7 @@
 	<div>
 	<h2>Cara Pengerjaan</h2>
 	<ul>
-	<li>Bagian II terdiri dari 6 kelompok: M – I – S – H – E – K</li><br/>
+	<li>Bagian II terdiri dari 6 kelompok: M – I – S – H – E – A</li><br/>
 	<li>Setiap kelompok terdiri dari 7 kalimat/ aitem.</li><br/>
 	<li>Tugasmu adalah memilih beberapa aktivitas yang dapat dilakukan dengan terampil dari ketujuh aitem tersebut</li><br/>
 	<li>Pilihlah dengan memberi tanda centang atau klik aitem yang kamu sukai.</li><br/>
@@ -647,80 +647,47 @@
 	<div data-role="content" data-theme="a" id="result" style="display:none;">
 		<h2>Hasil Penelusuran</h2>
 		<ul data-role="listview" data-inset="true" data-divider-theme="a">
-			<li data-role="list-divider">Indonesia</li>
-			<li data-icon="gear"><a href=""><div id="pind"></div> Point</a></li> 
-		</ul>
-		<!--<ul data-role="listview" data-inset="true" data-divider-theme="b">
-			<li data-role="list-divider">Inggris</li>
-			<li data-icon="gear"><a href=""><div id="ping"></div> Point</a></li> 
-		</ul>
-		<ul data-role="listview" data-inset="true" data-divider-theme="c">
-			<li data-role="list-divider">Bahasa Daerah</li>
-			<li data-icon="gear"><a href=""><div id="pbd"></div> Point</a></li> 
-		</ul>
-		<ul data-role="listview" data-inset="true" data-divider-theme="d">
-			<li data-role="list-divider">PKn</li>
-			<li data-icon="gear"><a href=""><div id="ppkn"></div> Point</a></li> 
-		</ul>
-		<ul data-role="listview" data-inset="true" data-divider-theme="e">
-			<li data-role="list-divider">Pendidikan Ekonomi </li>
-			<li data-icon="gear"><a href=""><div id="peko"></div> Point</a></li> 
-		</ul>
-		<ul data-role="listview" data-inset="true" data-divider-theme="f">
-			<li data-role="list-divider">PJKR</li>
-			<li data-icon="gear"><a href=""><div id="pkjr"></div> Point</a></li> 
-		</ul>
-		<ul data-role="listview" data-inset="true" data-divider-theme="a">
-			<li data-role="list-divider">Matematika</li>
-			<li data-icon="gear"><a href=""><div id="pmat"></div> Point</a></li> 
-		</ul>
-		<ul data-role="listview" data-inset="true" data-divider-theme="b">
-			<li data-role="list-divider">Biologi</li>
-			<li data-icon="gear"><a href=""><div id="pbio"></div> Point</a></li> 
-		</ul>
-		<ul data-role="listview" data-inset="true" data-divider-theme="c">
-			<li data-role="list-divider">Fisika</li>
-			<li data-icon="gear"><a href=""><div id="pfis"></div> Point</a></li> 
-		</ul>
-		<ul data-role="listview" data-inset="true" data-divider-theme="d">
-			<li data-role="list-divider">Teknologi Informasi</li>
-			<li data-icon="gear"><a href=""><div id="pti"></div> Point</a></li> 
-		</ul>
-		<ul data-role="listview" data-inset="true" data-divider-theme="e">
-			<li data-role="list-divider">Teknik Sipil </li>
-			<li data-icon="gear"><a href=""><div id="pspl"></div> Point</a></li> 
-		</ul>
-		<ul data-role="listview" data-inset="true" data-divider-theme="f">
-			<li data-role="list-divider">Teknik Mesin </li>
-			<li data-icon="gear"><a href=""><div id="pmsn"></div> Point</a></li> 
-		</ul>
-
-		<ul data-role="listview" data-inset="true" data-divider-theme="a">
-			<li data-role="list-divider">Teknik Elektro </li>
-			<li data-icon="gear"><a href=""><div id="pelk"></div> Point</a></li> 
-		</ul>
-		<ul data-role="listview" data-inset="true" data-divider-theme="b">
-			<li data-role="list-divider">Teknologi Pangan</li>
-			<li data-icon="gear"><a href=""><div id="ppgn"></div> Point</a></li> 
-		</ul>
-		<ul data-role="listview" data-inset="true" data-divider-theme="c">
-			<li data-role="list-divider">Informatika</li>
-			<li data-icon="gear"><a href=""><div id="pinf"></div> Point</a></li> 
-		</ul>
-		<ul data-role="listview" data-inset="true" data-divider-theme="d">
-			<li data-role="list-divider">Arsitek</li>
-			<li data-icon="gear"><a href=""><div id="pars"></div> Point</a></li> 
-		</ul>
-		<ul data-role="listview" data-inset="true" data-divider-theme="e">-->
-			<li data-role="list-divider">T.Lingkungan </li>
-			<li data-icon="gear"><a href=""><div id="plink"></div> Point</a></li> 
-		</ul> 
+			<li data-role="list-divider">Result</li>
+			<li data-icon="gear"><a href=""><div id=""></div>Silahkan Lihat Result di Hasil Monitoring di Layar</a></li>
+		<!--	<li data-icon="gear"><a href=""><div id="pind"></div> Point</a></li> -->
+		</ul>  
 	</div>
 	<!-- end result -->
+	<!-- extq -->
+	<div data-role="content" data-theme="a" id="ext_q" style="display:none;">
+	<ul data-role="listview" data-inset="true" data-divider-theme="a">
+	<li data-role="list-divider">EXT Q</li>
+	<li data-icon="gear"><a href="">
+		<div data-role="fieldcontain">
+		<fieldset data-role="controlgroup">
+			<legend>Bahasa apakah yang menjadi minatmu ?</legend>
+			<fieldset data-role="controlgroup">
+				<input type="radio" name="radio-1" id="radio-choice-4" value="1"  />
+				<label for="radio-choice-4">Bahasa Indonesia</label></fieldset><fieldset data-role="controlgroup">
+				<input type="radio" name="radio-1" id="radio-choice-4" value="2"  />
+				<label for="radio-choice-4">Bahasa Inggris</label></fieldset><fieldset data-role="controlgroup">
+				<input type="radio" name="radio-1" id="radio-choice-4" value="3"  />
+				<label for="radio-choice-4">Bahasa Jawa</label>
+			</fieldset>
+		</fieldset>
+	</div>
+	</a></li>
+	</ul>
+	<fieldset class="ui-grid-a">
+	<div class="ui-block-a"><button data-theme="a">Cancel</button></div>
+	<div class="ui-block-b"><button id="btc_exq" data-theme="d">lanjut</button></div>
+	</fieldset>
+	</div>
+	<!-- end extq -->
+	<div class="copy">
+	&copy; 2014 - <a href="#">Lembaga Bimbingan Konseling dan Psikologi & Teknik Informatika - UPGRI</a>
+	<span class="appbrand">Semarang</span>
+	</div>
 	</div>
 	</body>
 <script>
   var base_url='';
+  var ids=0;
       $(document).ready(function(){
         //$("#form_register").validationEngine()
 		});           
@@ -735,25 +702,31 @@
       return false;
       
     }
-	function simpanto_db($data){ 
+	function simpanto_db($data,$list){ 
 		var datpost=$data;
       	var nama=$('#nama').val();
       	var kelas=$('#kelas').val();
       	var jurusan=$('#jurusan').val(); 
       	var jkel=$('#jkel').val();
       	var pass=$('#thn_lhr').val()+'-'+$('#bln_lhr').val()+'-'+$('#tgl_lhr').val(); 
-			$.post('simpan.php',{'tgl_lahir':pass,'nama':nama,'jurusan':jurusan,'jkel':jkel,'kelas':kelas,'data':datpost}, function(data){
+			$.post('simpan.php',{'tgl_lahir':pass,'nama':nama,'jurusan':jurusan,'jkel':jkel,'kelas':kelas,'data':datpost,'list':$list}, function(data){
         		if(data.valid){
-					alert('Data Sudah Berhasil Di Simpan');
+					if (data.rslt=="BAHASA"){
+						$('#ext_q').show(300);
+						ids = data.rcd;
+					}else if (data.rslt=="FALSE"){
+						alert('Data Sudah Berhasil Di Simpan');
+					}
+					$('#pind').html(data.rslt);
         		}else{
-          			alert('Mohon Isi Data Dengan Lengkap');
+          			alert('Cek Koneksi Ke Server & Isi Data Dengan Lengkap');
         		}
       		},'json');      
       return false;
       
       
     }
-	function hitung(){ 
+	function xhitung(){ 
 		var m1=0,i1=0,s1=0,h1=0,e1=0,k1=0;
 		var m2=0,i2=0,s2=0,h2=0,e2=0,k2=0;
 		//m = $('input[type="checkbox"]:checked').length;
@@ -817,7 +790,55 @@
 		simpanto_db(datax);
 		$('#result').show(300);
 	}
-	
+	function hitung(){ 
+		var m1=0,i1=0,s1=0,h1=0,e1=0,k1=0;
+		var m2=0,i2=0,s2=0,h2=0,e2=0,k2=0;
+		//m = $('input[type="checkbox"]:checked').length;
+		m1 = $('#m1').find('input[type="checkbox"]:checked').length;
+		i1 = $('#i1').find('input[type="checkbox"]:checked').length;
+		s1 = $('#s1').find('input[type="checkbox"]:checked').length;
+		h1 = $('#h1').find('input[type="checkbox"]:checked').length;
+		e1 = $('#e1').find('input[type="checkbox"]:checked').length;
+		k1 = $('#k1').find('input[type="checkbox"]:checked').length;
+		m2 = $('#m2').find('input[type="checkbox"]:checked').length;
+		i2 = $('#i2').find('input[type="checkbox"]:checked').length;
+		s2 = $('#s2').find('input[type="checkbox"]:checked').length;
+		h2 = $('#h2').find('input[type="checkbox"]:checked').length;
+		e2 = $('#e2').find('input[type="checkbox"]:checked').length;
+		k2 = $('#k2').find('input[type="checkbox"]:checked').length;
+		var M=0,I=0,S=0,H=0,E=0,K=0,A=0;
+		M=m1+m2;
+		I=i1+i2;
+		S=s1+s2;
+		H=h1+h2;
+		E=e1+e2;
+		K=k1+k2;
+		//alert(M,I,S,H,E,K);
+		var datax=[M,I,S,H,E,K];
+    	var list = { "M": M, "I": I, "S": S, "H": H, "E": E , "A": A};  
+    	    list = sortObject(list);  	
+	    var first = list[0]['key'],second=list[1]['key'],thirdth =list[2]['key'],fourth=list[3]['key'],fiveth=list[4]['key'],sixth=list[5]['key'];
+	    var data=first+second+thirdth;
+		simpanto_db(data,list);	
+		$('#result').show(300);
+		$('#ending2').slideUp(300);
+	}
+	function sortObject(obj) {
+    var arr = [];
+    var prop;
+    for (prop in obj) {
+        if (obj.hasOwnProperty(prop)) {
+            arr.push({
+                'key': prop,
+                'value': obj[prop]
+            });
+        }
+    }
+    arr.sort(function(a, b) {
+        return b.value - a.value;
+    });
+    return arr; // returns array
+	}
 	$('#btn1').click(function() { 
 	  $('#rule').show(300); 
 	  $('#isi_data_diri').slideUp(300);  
@@ -949,12 +970,26 @@
 	});
 	$( "#bt_end2" ).click(function() {
 	hitung();
-	$('#ending2').slideUp(300);  
+	//$('#ending2').slideUp(300);  
 	});
 	$( "#btc_end2" ).click(function() {
   $('#ending2').slideUp(300); 
   $('#k2').show(300);  
 	});
+	$( "#btc_exq" ).click(function() {
+		var pilihan=$('#ext_q').find('input[type="radio"]:checked').val();
+		$.post('update.php',{'pilihan':pilihan,'ids':ids}, function(data){
+        		if(data.valid){
+						alert('Data Sudah Berhasil Di Simpan');
+						$('#ext_q').slideUp(300); 
+						$('#result').show(300);  
+        		}else{
+          			alert('Cek Koneksi Ke Server & Isi Data Dengan Lengkap');
+        		}
+      		},'json');   
+	});
+	
+	
 </script
 </script
 </html>
